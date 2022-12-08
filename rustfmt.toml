@@ -2,6 +2,7 @@
 
 hard_tabs = true
 edition = "2021"
+
 # For recording
 # max_width = 60
 # chain_width = 40
